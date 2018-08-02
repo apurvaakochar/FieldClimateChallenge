@@ -8,7 +8,8 @@ Send us link with your solution repository.
 Remember, our goal is not to *compare* and *grade* the projects, but to get to know you better. We care about the quality, not quantity, we don't want you to waste your precious time.
 
 **Auth URL** : https://oauth.fieldclimate.com/authorize
-**Access Token URL**: https://oauth.fieldclimate.com/token
+**Access Token URL** : https://oauth.fieldclimate.com/token
+**User Information Endpoint** : https://api.fieldclimate.com/v2/user
 
 ### Interface
 
@@ -16,7 +17,7 @@ Two Screens:
 
 • **Login Screen** with username and password fields and you are welcome to layout it according to your wishes.
 
-• **Home Screen** with the title "Weather" and rest can be left blank.
+• **Home Screen** with the title "Weather" and displaying the user information. Choose what you would like to display.
 
 
 ### Architecture
